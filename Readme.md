@@ -10,5 +10,5 @@ pdfminer3 (pip install pdfminer3)
 # HOW TO USE
 
 you can use it by this command 
-
-python .\emails_Extractor.py file1.pdf file2.pdf file3.pdf ....
+in a CLI
+emails_Extractor.exe file1.pdf file2.pdf file3.pdf ....
