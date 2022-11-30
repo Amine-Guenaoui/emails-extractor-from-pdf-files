@@ -3,10 +3,6 @@ This project is a test to extract Emails from pdf files. it might work and it mi
 and you can apply this on multiple files,
 it runs sequantially on multiple files.
 
-# REQUIERMENTS :
-Python 3
-pdfminer3 (pip install pdfminer3)
-
 # HOW TO USE
 
 you can use it by this command 
