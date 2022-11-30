@@ -10,6 +10,6 @@ pdfminer3 (pip install pdfminer3)
 # HOW TO USE
 
 you can use it by this command 
-in a CLI 
+in a CLI  the output will be the name of the filename concatinated with _liste_emails.txt
 ---
 emails_Extractor.exe file1.pdf file2.pdf file3.pdf ....
